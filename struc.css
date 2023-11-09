@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(75, 72, 72);
+    color: white;
+}
+
+#top{
+    display:flex;
+    font-size: 30px;
+    justify-content: center;
+}
+
+.theory{
+    font-size: 18px;
+}
+
+.photo{
+    display: flex;
+    justify-content: center;
+}
